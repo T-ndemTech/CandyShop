@@ -1,2 +1,2 @@
 # CandyShop
-Shop with some candies on FastAPI
+User microservice of Candy shop
